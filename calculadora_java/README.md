@@ -76,4 +76,8 @@ Puedes modificar fácilmente:
 - Fuente y tamaño del texto modificando `Font`
 - Distribución de botones alterando el `GridLayout`
 
+## Captura
+
+![Captura de la calculadora](assets/calculadora.png)
+
 ¡Disfruta usando tu calculadora Java! 🧮
