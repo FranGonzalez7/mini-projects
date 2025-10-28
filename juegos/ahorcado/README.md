@@ -2,6 +2,10 @@
 
 Un juego del ahorcado clásico implementado en Java que utiliza nombres de Pokémon de la primera generación como palabras a adivinar.
 
+## 🎨 **¡NUEVA VERSIÓN CON INTERFAZ GRÁFICA!**
+
+Ahora incluye una versión con interfaz gráfica completa que muestra la imagen del Pokémon cuando lo adivinas correctamente.
+
 ## 🚀 Características
 
 ### Versión Consola (`AhorcadoPokemon.java`)
@@ -13,7 +17,7 @@ Un juego del ahorcado clásico implementado en Java que utiliza nombres de Poké
 - **Validación de Entrada**: Verifica que se ingresen letras válidas
 - **Juego Continuo**: Opción de jugar múltiples rondas
 
-### Versión GUI (`AhorcadoPokemonGUI.java`)
+### Versión GUI (`AhorcadoPokemonGUI.java`) 🆕
 - **Interfaz Gráfica Completa**: Ventana moderna con Java Swing
 - **Imágenes de Pokémon**: Muestra la imagen oficial del Pokémon al adivinarlo
 - **Botones Interactivos**: Panel con botones para cada letra del alfabeto
@@ -175,10 +179,5 @@ Personalización avanzada disponible:
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ---
-
-
-## Captura
-
-![Captura de la calculadora](assets/pokemon_screenshot.png)
 
 ¡Disfruta jugando y convirtiéndote en un maestro Pokémon! 🎮✨

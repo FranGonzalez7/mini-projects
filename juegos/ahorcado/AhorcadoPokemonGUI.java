@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Random;
 import javax.imageio.ImageIO;
 
+//Ahorcado PokemonGUI
 public class AhorcadoPokemonGUI extends JFrame {
     private static final String POKEAPI_SPRITES_URL = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/";
     private static final String POKEBALL_ICON_URL = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png";

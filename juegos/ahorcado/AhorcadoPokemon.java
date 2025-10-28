@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
+//Ahorcado Pokemon
 public class AhorcadoPokemon {
     private static final String POKEAPI_BASE_URL = "https://pokeapi.co/api/v2/pokemon/";
     private static final int PRIMERA_GENERACION_MAX = 151;
